@@ -1,0 +1,49 @@
+#easy-banner table {
+	margin: 0;
+	width: 100%;
+	border: 1px solid #dfdfdf;
+	border-spacing: 0;
+	background-color: #f9f9f9;
+}
+
+#easy-banner tr {
+	vertical-align: top;
+}
+
+#easy-banner th.left {
+	width: 38%;
+}
+
+#easy-banner td.right {
+	text-align: center;
+}
+
+#easy-banner thead th {
+	padding: 5px 8px 8px;
+	background-color: #f1f1f1;
+}
+
+#easy-banner table input, #easy-banner table select, #easy-banner table textarea {
+	width: 96%;
+	margin: 8px;
+}
+
+#easy-banner td>div {
+	width: 96%;
+	margin: 8px;
+}
+
+#easy-banner table input[type="checkbox"] {
+	width: auto;
+}
+
+#easy-banner .submit {
+    border: 0;
+    float: none;
+    padding: 0 0 8px;
+}
+
+#easy-banner .submit input {
+    margin: 0;
+    width: auto;
+}
